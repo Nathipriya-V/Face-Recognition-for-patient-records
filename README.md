@@ -1,6 +1,6 @@
 # Face-Recognition-for-patient-records
 
-![Uploading image.png…]()
+![image](https://github.com/Nathipriya-V/Face-Recognition-for-patient-records/assets/160104560/7b47651b-e9df-4b5e-8462-fb4af1cf0568)
 
 
 ## Overview
